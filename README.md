@@ -1,7 +1,7 @@
 # E6998 Robustness & Security in ML Systems (Fall 2021, Prof. Junfeng Yang)
 
-- **Final Project: Designing and Evaluating Universal Attack on Explainable AI**
-- Coauthors: Chaewon (Emily) Park, Noah McDermott
+## Final Project: Designing and Evaluating Universal Attack on Explainable AI
+- Coauthors: **Chaewon (Emily) Park**, Noah McDermott
 
 <p align="center">
   <img src="assets/슬라이드1.JPG" />
