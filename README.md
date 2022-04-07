@@ -10,8 +10,8 @@
   <img src="assets/슬라이드4.JPG" />
   <img src="assets/슬라이드5.JPG" />
   <img src="assets/슬라이드6.JPG" />
+  <img src="assets/슬라이드11.jpg"/>
   <img src="assets/슬라이드7.JPG" />
   <img src="assets/슬라이드8.JPG" />
   <img src="assets/슬라이드9.JPG" />
-  <img src="assets/슬라이드11.jpg"/>
 </p>
